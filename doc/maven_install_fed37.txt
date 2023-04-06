@@ -1,0 +1,46 @@
+===================================================================================================================================================================
+ Paquet                                                      Architecture               Version                                  Dépôt                       Taille
+===================================================================================================================================================================
+Installation:
+ maven                                                       noarch                     1:3.8.5-3.fc37                           fedora                       18 k
+Installation des dépendances:
+ apache-commons-cli                                          noarch                     1.5.0-4.fc37                             fedora                       75 k
+ apache-commons-codec                                        noarch                     1.15-7.fc37                              fedora                      301 k
+ apache-commons-io                                           noarch                     1:2.11.0-2.fc37                          fedora                      322 k
+ apache-commons-lang3                                        noarch                     3.12.0-7.fc37                            fedora                      559 k
+ atinject                                                    noarch                     1.0.5-4.fc37                             fedora                       23 k
+ cdi-api                                                     noarch                     2.0.2-6.fc37                             fedora                       53 k
+ google-guice                                                noarch                     4.2.3-9.fc37                             fedora                      472 k
+ guava                                                       noarch                     31.0.1-4.fc37                            fedora                      2.5 M
+ httpcomponents-client                                       noarch                     4.5.13-5.fc37                            fedora                      657 k
+ httpcomponents-core                                         noarch                     4.4.13-7.fc37                            fedora                      633 k
+ jakarta-annotations                                         noarch                     1.3.5-14.fc37                            fedora                       45 k
+ jansi                                                       x86_64                     2.4.0-6.fc37                             fedora                      112 k
+ java-17-openjdk                                             x86_64                     1:17.0.6.0.10-1.fc37                     updates                     430 k
+ java-17-openjdk-devel                                       x86_64                     1:17.0.6.0.10-1.fc37                     updates                     4.7 M
+ java-17-openjdk-headless                                    x86_64                     1:17.0.6.0.10-1.fc37                     updates                      42 M
+ jcl-over-slf4j                                              noarch                     1.7.32-4.fc37                            fedora                       24 k
+ jsr-305                                                     noarch                     3.0.2-6.fc37                             fedora                       36 k
+ maven-lib                                                   noarch                     1:3.8.5-3.fc37                           fedora                      1.5 M
+ maven-openjdk17                                             noarch                     1:3.8.5-3.fc37                           fedora                      9.0 k
+ maven-resolver                                              noarch                     1:1.7.3-5.fc37                           fedora                      605 k
+ maven-shared-utils                                          noarch                     3.3.4-5.fc37                             fedora                      151 k
+ maven-wagon                                                 noarch                     3.5.1-2.fc37                             fedora                      107 k
+ plexus-cipher                                               noarch                     2.0-2.fc37                               fedora                       25 k
+ plexus-classworlds                                          noarch                     2.6.0-12.fc37                            fedora                       60 k
+ plexus-containers-component-annotations                     noarch                     2.1.1-2.fc37                             fedora                       18 k
+ plexus-interpolation                                        noarch                     1.26-12.fc37                             fedora                       79 k
+ plexus-sec-dispatcher                                       noarch                     2.0-4.fc37                               fedora                       33 k
+ plexus-utils                                                noarch                     3.3.0-10.fc37                            fedora                      253 k
+ publicsuffix-list                                           noarch                     20230318-1.fc37                          updates                      86 k
+ sisu                                                        noarch                     1:0.3.5-2.fc37                           fedora                      510 k
+ slf4j                                                       noarch                     1.7.32-4.fc37                            fedora                       69 k
+
+Résumé de la transaction
+===================================================================================================================================================================
+Installer  32 Paquets
+
+Taille totale des téléchargements : 56 M
+Taille des paquets installés : 216 M
+Voulez-vous continuer ? [o/N] : 
+
